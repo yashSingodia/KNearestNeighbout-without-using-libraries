@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-
 # K Nearest neighbour without using scikit-learn 
 
 import pandas as pd
